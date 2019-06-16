@@ -1,3 +1,8 @@
 [submodule "PJC"]
 	path = PJC
 	url = https://github.com/BeOrNot2Be/PJC.git
+	branch = master
+[submodule "IPFE"]
+	path = IPFE
+	url = git@github.com:BeOrNot2Be/IPFE.git
+	branch = master
